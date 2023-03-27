@@ -22,7 +22,7 @@ def get_from_ID(ID, check_supp=True):
   Si l'ID n'existe pas, le "Statut" l'indique
   """
   ID = re.sub("_", "-", str(ID))
-  dic_titres = get_json("data/dico_titres_ID.json")
+  dic_titres = get_json("Produce_Biblio_html/data/dico_titres_ID.json")
   dic_titres = {str(re.sub("_", "-", x)):y for x,y in dic_titres.items()}
 
   message = "Correspondance trouvée"
@@ -31,10 +31,14 @@ def get_from_ID(ID, check_supp=True):
       ID+="*"
     else:
       #Message d'erreur stocké dans un Json :
-      message = get_json("data/messages.json")["ID_inconnue"]
+      message = get_json("Produce_Biblio_html/data/messages.json")["ID_inconnue"]
   elif check_supp==True:#on regarde les suppléments possibles pour l'ID
     msg_supp = get_supp(ID, dic_titres)
     message+=msg_supp
+  if "soc-" in ID:
+    ID = re.sub("soc-", "Socard", ID)
+  elif ID not in dic_titres:
+    ID = f"Moreau{ID}"
   return {"Statut": message, "Requête":ID, "Résultat":dic_titres[ID]}
 
 def get_from_title(title):

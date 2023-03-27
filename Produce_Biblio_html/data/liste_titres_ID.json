@@ -565,7 +565,7 @@
   ],
   [
     "Moreau142",
-    "Apparition merveilleuse de l’Ange gardien à la reine végente."
+    "Apparition merveilleuse de l’Ange gardien à la reine régente."
   ],
   [
     "Moreau143",
@@ -18029,7 +18029,7 @@
   ],
   [
     "Moreau2suppl195",
-    "Suite et seconde lettre du bon pauvre à la reyne végente."
+    "Suite et seconde lettre du bon pauvre à la reyne régente."
   ],
   [
     "Moreau2suppl196",
@@ -18945,7 +18945,7 @@
   ],
   [
     "Labadie125",
-    "CURS (les) bruslans des enfants de Bourdeaus auprès des Palmes"
+    "C_x008c_URS (les) bruslans des enfants de Bourdeaus auprès des Palmes"
   ],
   [
     "Labadie126",
@@ -19093,7 +19093,7 @@
   ],
   [
     "Labadie162",
-    "DE BURDEGALA EXPUGNATA sub auspiciis celsissit morum Principum Vindocini et Candal Ducum"
+    "DE BURDEGALA EXPUGNATA sub auspiciis celsissit morum Principum Vindocini et Candal_x009c_ Ducum"
   ],
   [
     "Labadie163",
@@ -19145,7 +19145,7 @@
   ],
   [
     "Labadie175",
-    "DEROUTE (la) du Marquis de Sauve-Buf a l'attaque de Chancelade en Perigort"
+    "DEROUTE (la) du Marquis de Sauve-B_x009c_uf a l'attaque de Chancelade en Perigort"
   ],
   [
     "Labadie176",
@@ -19561,7 +19561,7 @@
   ],
   [
     "Labadie279",
-    "ORDONNANCE de Monsieur le Marquis de Sauvebuf, premier Baron de Limosin, General des armées du Roy, sous l'authorité du Parlement de Bourdeaux"
+    "ORDONNANCE de Monsieur le Marquis de Sauveb_x009c_uf, premier Baron de Limosin, General des armées du Roy, sous l'authorité du Parlement de Bourdeaux"
   ],
   [
     "Labadie280",
@@ -19641,7 +19641,7 @@
   ],
   [
     "Labadie299",
-    "RECIT Veritable du Duel arrivé entre deux surs, proche de Bordeaux, l'une pour avoir pris le party & deffendu la Fronde & l'autre l'Espée, dont l'avantage a esté emporté par la belle Frondeuse"
+    "RECIT Veritable du Duel arrivé entre deux s_x009c_urs, proche de Bordeaux, l'une pour avoir pris le party & deffendu la Fronde & l'autre l'Espée, dont l'avantage a esté emporté par la belle Frondeuse"
   ],
   [
     "Labadie300",
@@ -19821,7 +19821,7 @@
   ],
   [
     "Labadie344",
-    "VERITABLES (les) Ravissemens du vray cur Bourdelois, sur le Triomphe de la Fronde, et sur l'heureux évenement de Monseigneur le Prince de Condé à son gouvernement de Guyenne"
+    "VERITABLES (les) Ravissemens du vray c_x009c_ur Bourdelois, sur le Triomphe de la Fronde, et sur l'heureux évenement de Monseigneur le Prince de Condé à son gouvernement de Guyenne"
   ],
   [
     "Labadie345*",
@@ -20234,5 +20234,25 @@
   [
     "Socard102",
     "Savvegarde (La) de la vie hvmaine"
+  ],
+  [
+    "Antonomaz1",
+    "Lettre à Monsieur de Broussel, conseiller du Roy en sa cour de Parlement"
+  ],
+  [
+    "Antonomaz2",
+    "Chanson nouvelle, à la louange de M. de Brousel, conseiller du Roy en sa cour de Parlement de Paris."
+  ],
+  [
+    "Antonomaz3",
+    "Chanson nouuelle a la louange de nos chefs"
+  ],
+  [
+    "Antonomaz4",
+    "La Naissance d'un monstre épouvantable"
+  ],
+  [
+    "Antonomaz5",
+    "Recit de ce qui s'est fait et passé a la marche mazarine, depuis sa sortie de Paris jusques à Sedan."
   ]
 ]

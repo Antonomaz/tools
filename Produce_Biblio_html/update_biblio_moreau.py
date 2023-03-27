@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import pandas
-
+from datetime import date
+date_str= date.today().strftime("%d/%m/%Y")
 path_xls = "data/ListeMazarinades.xlsx"
 
 xls = pandas.ExcelFile(path_xls)
@@ -46,7 +47,6 @@ for nom, struct in [["liste", as_list], ["dico", dic]]:
 #from antono_tools import *
 import re
 
-
 with open("visualisation_tools/head.html", encoding="utf-8") as f:
     header = f.read()
 
@@ -68,14 +68,16 @@ for ID, infos in dic_titres.items():
   test.append([len(str(infos["Date Précise"])),infos["Date Précise"]])
   elems = [str(x) if str(x)!="null" and str(x)!="None" and str(x)!="nan" else "" for x in elems]
   link = f"id=\"{ID}\""
-  link= ""
   this_info = "</td><td>".join(elems)
   l = f"  <tr {link}><td>{ID}</td><td>{this_info}</td></tr>\n"
   out +=l
 out_html = re.sub("{{content_table}}", out, header)
+#dd = input(f"Entrer la date du jour (défaut : {date_str})")
+out_html = re.sub("{{date}}", date_str, out_html)
 with open("test.html", "w", encoding="utf-8") as w:
     w.write(out_html)
 
+print("output : test.html")
 
 print(sorted(test)[-10:])
 
