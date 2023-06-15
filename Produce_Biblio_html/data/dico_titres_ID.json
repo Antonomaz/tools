@@ -45567,12 +45567,390 @@
     "Note": NaN
   },
   "Antonomaz5": {
+    "Titre": "La Chasse donnée à Mazarin par les Frondeurs",
+    "Année": 1651,
+    "Date Précise": NaN,
+    "Lieu": "Paris?",
+    "Nb. Pages": 1,
+    "Notice": "placard. photo dans Madeleine Laurain-Portemer. Études mazarines\nVolume 2 1981, Planche XVI.",
+    "Note": "Bibliothèque Vaticane, Fonds Chigi."
+  },
+  "BM01481": {
     "Titre": "Recit de ce qui s'est fait et passé a la marche mazarine, depuis sa sortie de Paris jusques à Sedan.",
     "Année": 1651,
     "Date Précise": NaN,
     "Lieu": "Paris",
     "Nb. Pages": 1,
-    "Notice": "BM01481",
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49840": {
+    "Titre": "Arrest de la cour de Parlement. Portant deffences au [sic] fermiers des aydes, leurs commis qu'autres, de faire à l'advenir aucunes levées, tant sur le bestail à pied fourché, qu'autres danrées : mentionnez au tarif du 26. jenvier 1641. Du deuxiesme octobre, mil six cens quarante huict.",
+    "Année": 1648,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49296": {
+    "Titre": "L'arivée du courrier Mazarin, dans la ville de Bordeaux, leurs portant toutes sortes de nouvelles.",
+    "Année": 1651,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 8,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49086": {
+    "Titre": "Le manifeste du ciel, selon la lecture dans les astres. Item. La determination de la durée du monde, selon le Thalmoud jerosolimitain. Cæli declaratio secundum lecturam in astris. Item. Mundi durationis determinatio, secundum Thalmoud Jerosolimitanum.",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 7,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49359": {
+    "Titre": "Plainte d'Armide, sur l'emprisonnement de Daphnis.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 10,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49797": {
+    "Titre": "Arrest de la cour de parlement de Bourdeax [sic]. Du quinziesme jour de juin 1649. Portant cassation de l'arrest du dix-huictiesme de mars 1649. donné par la Cour des aydes.",
+    "Année": 1649,
+    "Date Précise": NaN,
+    "Lieu": "Bordeaux",
+    "Nb. Pages": 7,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49796": {
+    "Titre": "Arrest de la Cour des aydes, obtenu par monsieur le procureur general du Roy ; pour faire payer les rentes & les gages de tous les officiers.",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 12,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49193": {
+    "Titre": "Relation de la prise des chasteaux d'Ambleville & de Barbesieux en Angoumois, & de la deroute de l'armée de monsieur le Prince par celle du Roy commãdée par monsieur le comte d'Harcourt.",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Sans lieu",
+    "Nb. Pages": 13,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49773": {
+    "Titre": "Arrest de verification de la Chambre des comptes de Paris, du contract d'eschange fait entre le Roy, & monsieur le duc de Buillon [sic].",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Sans lieu",
+    "Nb. Pages": 7,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49149": {
+    "Titre": "Le second jeu du picquet de la Cour.",
+    "Année": 1649,
+    "Date Précise": NaN,
+    "Lieu": "Sans lieu",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49212": {
+    "Titre": "Arrest du Conseil d'Estat du Roy, donné à Saumeur, sa Majesté y estant, le seiziesme fevrier 1652. pour l'asseurance du payement des rentes constituées sur l'hostel de la ville de Paris.",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 3,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49790": {
+    "Titre": "Arrest de la Chambre des comptes, contre les fermiers des cinq grosses fermes, pour le payement des rentes qu'ils ont divertie [sic].",
+    "Année": 1648,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 7,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM50189": {
+    "Titre": "Il manifesto di monsignor il principe di Condè. Toccante le veritiere ragioni della di lui uscita da Parigi, fatta sotto li 6. di luglio 1651. Con una protesta alla Francia, ch' egli non la vuole contro alcun' altro, eccetto che contro il suo nemico, e del commun riposo il cardinal Mazarino. Fedelmente tradotta dal francese, secondo la copia stampata in Parigi.",
+    "Année": "Sans date",
+    "Date Précise": NaN,
+    "Lieu": "Sans lieu",
+    "Nb. Pages": 12,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49257": {
+    "Titre": "Lettre du Roy, escrite a monseigneur le marquis de Sourdis, gouverneur d'Orleans, &c. Touchant les particularitez de la paix concluë & arrestée, & la marche de l'armée de l'archiduc Leopold.",
+    "Année": "1649-04-02",
+    "Date Précise": NaN,
+    "Lieu": "Orléans",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49827": {
+    "Titre": "Arrest du parlement de Bretagne, pour la liberté des Estats de la province, contre monsieur le mareschal de la Meilleraye.",
+    "Année": 1651,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 7,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49078": {
+    "Titre": "Histoire entiere & veritable du procez de Charles Stuart, Roy d'Angleterre. Contenant, en forme de journal, tout ce qui s'est faict & passé sur ce sujet dans le Parlement, & en la Haute Cour de justice ; et la façon en laquelle il a esté mis à mort. Au mois de janvier, 1648[/]9. A quoy sont adjoustées quelques declarations du Parlement cy-devant publiées, pour faire voir plus amplement, quels ont esté les motifs & raisons d'une procedure si extraordinaire. Le tout fidellement receüilly des pieces authentiques & traduit de l'anglois.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49287": {
+    "Titre": "Harangue faite a madame la duchesse d'Orleans sur l'heureuse naissance de monseigneur le Prince son fils. Par un docte et celebre personnage d'Orleans.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Orléans",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49286": {
+    "Titre": "Relation de ce qui s'est n'agueres passé à Tolose, sur la reception des lettres du Roy, portées par le chevalier de Terlon. Avec defenses de lever aucuns gens de guerre sans permission du Roy.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Orléans",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49209": {
+    "Titre": "Arrest du Conseil d'Estat du Roy, donné à Saumeur le dixiesme fevrier 1652 pour le payement des gages des officiers des cours souveraines.",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 3,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49830": {
+    "Titre": "Arrest de la cour et chambre de l'édict de Languedoc, du 13. octobre 1651. sur la desertion de Marsin. Portant inhibitions & defenses à toutes sortes de personnes de quelque qualité & condition qu'ils soient de s'attrouper, assembler, & faire provision & achapt d'armes, ny émouvoir le peuple contre le service du Roy, sur les peines portées par les ordonnances.",
+    "Année": 1651,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49393": {
+    "Titre": "Arrests du conseil d'Estat du Roy. Pour la descharge accordée pour sa Majesté aux taillables du Bourdelois, Bazadois, Condommois & autres pays adjacents, en consideration de la guerre.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 7,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49240": {
+    "Titre": "Gabrielis Naudæi Vermahnung an die Parlaments Herrn in Parisz / über die Verkauffung der bibliothec des Herrn Cardinalis Mazarini geschehen am 29. Decembris 1652.",
+    "Année": 1654,
+    "Date Précise": NaN,
+    "Lieu": "Francfort",
+    "Nb. Pages": 8,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49846": {
+    "Titre": "Arrest de la cour de Parlement. Du septiesme septembre mil six cens quarante-huict. Portant deffences à tous baillifs, seneschaux, leurs lieutenans, & autres juges du ressort de ladite Cour, d'appliquer aucunes amendes aux reparations de leur Palais, beuvettes, & autres neceβités, et ordonné qu'ils prononceront leurs amendes envers le Roy, suivant les ordonnances. Et deffenses aux condamnez de payer en vertu des sentences desdits juges, à peine de payer deux fois.",
+    "Année": 1648,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 3,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49283": {
+    "Titre": "La prise et reduction de la ville de Clermont en Lorraine, par l'armée du Roy, commandée par monsieur le marquis de Seneterre. Avec la reconnoissance faite par leurs Majestez à ceux qui ont esté employé en cette action.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Orléans",
+    "Nb. Pages": 7,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49829": {
+    "Titre": "Arrest de la cour de parlement de Dauphiné, sur l'execution des declarations de sa Majesté, concernant le payement des tailles des années 1648. & 1649.",
+    "Année": 1651,
+    "Date Précise": NaN,
+    "Lieu": "Sans lieu",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49258": {
+    "Titre": "Lettre escrite a messieurs les maire et eschevins de la ville d'Orleans. Touchant la confirmation de la paix.",
+    "Année": "1649-04-03",
+    "Date Précise": NaN,
+    "Lieu": "Orléans",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49794": {
+    "Titre": "Arrest d'absolution de Me Guy Joly, conseiller du Roy au Chastelet. Avec la permission de continuer son information. En Parlement le 1. février 1650.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 7,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49770": {
+    "Titre": "Arrests de la Cour des aydes. Des premier juin & 20. septembre 1649. portant reglement sur le fait des tailles & subsistance années 1647. 1648. & 1649.",
+    "Année": 1649,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 7,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49206": {
+    "Titre": "Lettre du Roy escrite aux Parlemens.",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 6,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49295": {
+    "Titre": "Relation de ce qui s'est fait & passé à Paris, au sujet de l'éloignement du cardinal Mazarin, avec la liberté & sortie des Princes hors du Havre de Grace, par ordre & commandement de sa Majesté.",
+    "Année": 1651,
+    "Date Précise": NaN,
+    "Lieu": "Orléans",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49017": {
+    "Titre": "Response du Roy aux députez du parlement de Paris vers sa Majesté.",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 12,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49403": {
+    "Titre": "Raisons et considerations politiques de l'assemblée faite en l'hostel de ville de Paris, sur le sujet du soulagement des pauvres, le 21. juin dernier, pour rapporter à l'assemblée generalle convoquée en la chambre Sainct Louys, suivant l'arrest de la Cour du 12. juin 1652.",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Sans lieu",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49067": {
+    "Titre": "Officialis Parisiensis dilectis nostris rectoribus, seu eorum vicariis, & in eorum recusationem omnibus presbyteris, & notariis nobis subditis, salutem in Domino... [Lettre monitoire de l'official de l'archevêché de Paris au clergé du diocèse pour exhorter les fidèles à révéler ce qu'ils savent des transactions immobilières, mobilières, financières, pécuniaires et métalliques faites par Mazarin, introuvalbe depuis le 7 mai 1652, ou en son nom par d'autres personnes]",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Sans lieu",
+    "Nb. Pages": 3,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49066": {
+    "Titre": "Officialis Parisiensis dilectis nostris rectoribus seu eorum vicariis, & in eorum recusationem omnibus presbyteris & notoriis nobis subditis, salutem in Domino... [Lettre monitoire de l'official de l'archevêché de Paris au clergé du diocèse pour exhorter les fidèles à révéler ce qu'ils savent de correspondances secrètes entretenues par Mazarin alors en exil avec des personnes présentes en France].",
+    "Année": 1651,
+    "Date Précise": NaN,
+    "Lieu": "Sans lieu",
+    "Nb. Pages": 1,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM48896": {
+    "Titre": "Consideration sur le deplorable estat du royaume, avec le moyen indubitable de faire cesser la guerre, & y voir bien tost la paix.",
+    "Année": 1652,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49276": {
+    "Titre": "Dialogue sur l'emprisonnement du prince de Condé.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Sans lieu",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49845": {
+    "Titre": "Arrest de la cour de Parlement, portant commandement à tous huiβiers & sergens de se retirer & faire leur demeure aux lieux ou ils doivent resider pour le fait de leurs charges, à peine de faux & de mil livres d'amende : et a tous commiβionnaires de se servir de leurs commiβions, ny faire aucuns exploicts ny acte de justice sur pareille peine.",
+    "Année": 1648,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49285": {
+    "Titre": "Lettre du duc d'Espernon, envoyée aux jurats de Bourdeaux, touchant ce qui se passe entre son armée & celle du duc de Boüillon.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Orléans",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49261": {
+    "Titre": "Harangue et remerciement fait au Roy par les Bordelois, sur le sujet de la paix, avec ses articles.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Orléans",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49260": {
+    "Titre": "L'accommodement des habitans de Bordeaux avec le duc d'Espernon.",
+    "Année": 1649,
+    "Date Précise": NaN,
+    "Lieu": "Orléans",
+    "Nb. Pages": 4,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49386": {
+    "Titre": "Prediction où se voit comme le roy Charles II. Roy de la Grand' Bretagne doit estre remis aux royaumes d'Angleterre, Escosse & Irlande apres la mort de son pere. Avec la conference du feu Roy & le docteur Henderson Escossois touchant le gouvernement de l'Eglise anglicane. Ensemble diverses pieces de quoy le contenu est en la page suivante. Le tout en suitte du portrait royal.",
+    "Année": 1650,
+    "Date Précise": NaN,
+    "Lieu": "Rouen",
+    "Nb. Pages": 8,
+    "Notice": NaN,
+    "Note": NaN
+  },
+  "BM49418": {
+    "Titre": "A monseigneur le Prince, sur son glorieux retour. Stances.",
+    "Année": 1651,
+    "Date Précise": NaN,
+    "Lieu": "Paris",
+    "Nb. Pages": 3,
+    "Notice": NaN,
     "Note": NaN
   }
 }
